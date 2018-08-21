@@ -46,8 +46,7 @@ JavaScript는 1995 년 Netscape Communications Corporation의 개발자 인 Bren
 
 ---
 ## 목차
-- ES6 - Home
-- ES6 - Overview
+- ES6 - Home & Overview
 - ES6 - Environment
 - ES6 - Syntax
 - ES6 - Variables
