@@ -13,11 +13,11 @@ tags: [ES6, JS]
 다음 내용은 https://www.tutorialspoint.com/es6/index.htm 을 참고하여 번역, 정리한 글입니다.  
 
 #### ECMAScript (ES)
-ECMAScript (ES)는 ECMAScript International에서 표준화 한 스크립팅 언어 사양입니다. 응용 프로그램에서 클라이언트 측 스크립팅을 사용하기 위해 사용됩니다. JavaScript, Jscript 및 ActionScript와 같은 언어는이 사양의 적용을받습니다. 
+ECMAScript (ES)는 ECMAScript International에서 표준화 한 스크립팅 언어 사양입니다. 응용 프로그램에서 클라이언트 측 스크립팅을 사용하기 위해 사용됩니다. JavaScript, Jscript 및 ActionScript와 같은 언어는이 사양의 적용을받습니다.  
 이 튜토리얼에서는 JavaScript로 ES6을 구현하는 방법을 소개합니다.
 
 #### Audience
-이 튜토리얼은 ECMAScript 5와 ECMAScript 6의 차이점을 알고 싶어하는 JavaScript 개발자를 위해 준비되었습니다. 
+이 튜토리얼은 ECMAScript 5와 ECMAScript 6의 차이점을 알고 싶어하는 JavaScript 개발자를 위해 준비되었습니다.  
 최신 개발 내용을 배우고 JavaScript로 구현하려는 사람들에게 유용합니다.
 
 #### Prerequisites
